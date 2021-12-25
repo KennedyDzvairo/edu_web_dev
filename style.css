@@ -1,0 +1,43 @@
+h1 {
+    border: 1px solid #000000;
+    background-color: #80ced6;
+    padding: 20px 20px 20px 20pix;
+    width: 840px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10 pix;
+  }
+
+  h2 {
+    border: 1px solid #000000;
+    background-color: #80ced6;
+    padding: 20px 20px 20px 20pix;
+  }
+
+.container {
+    font-family: arial;
+    font-weight: bold;
+    color: #000000;
+    border: 1px solid #000000;
+    width: 340px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10 pix;
+
+}
+
+/*
+body {background-color: lightblue;}
+
+p {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 1.00em;
+    color: rgb(8, 44, 8);
+}
+*/
+
+
